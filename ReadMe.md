@@ -10,4 +10,4 @@ Projeto feito com objetivo de estudo para testar os conhecimentos adquiridos
 <br>
 -CSS
 <br>
-JAVASCRIPT
+-JAVASCRIPT
